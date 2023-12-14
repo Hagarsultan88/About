@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    border:4px solid rgb(0, 60, 255);
+    width: 93%;
+    height: 1700px;
+    margin: auto;
+}
+
+hr {
+    color: rgb(0, 60, 255);
+}
+
+.content-sectionone img {
+    margin: auto;
+    width: 100%;
+    border-bottom: 2px dotted rgb(0, 60, 255);
+    border-left: 2px dotted rgb(0, 60, 255);
+    border-right: 2px dotted rgb(0, 60, 255);
+}
+
+.page .content-sectionone {
+    margin: auto;
+    width: 80%;
+    border-left: 2px dotted rgb(0, 60, 255);
+    border-right: 2px dotted rgb(0, 60, 255);
+    margin-bottom: 50px;
+}
+
+
+.page .container-two {
+    width: 85%;
+    margin: auto;
+    height: 780px;
+    border-top: 2px dotted rgb(0, 60, 255);
+    border-bottom: 2px dotted rgb(0, 60, 255);
+    border-right:2px dotted rgb(0, 60, 255);
+    border-left: 2px dotted rgb(0, 60, 255);
+    margin-bottom: 50px;
+}
+
+   .container-two .content-one {
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-left: 15px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    margin-left: 10px;
+    width: 70%;
+   }
+
+   .container-two  .content-one img {
+    border-radius: 15px;
+   }
+
+   .container-two .content-two img {
+    border-radius: 15px;
+   }
+
+   .container-two .content-two {
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-left: 15px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    margin-left: 10px;
+    width: 70%;
+   }
+
+   .page .container-three {
+    width: 85%;
+    margin: auto;
+    height: 200px;
+    border-top: 2px dotted rgb(0, 60, 255);
+    border-bottom: 2px dotted rgb(0, 60, 255);
+    border-right:2px dotted rgb(0, 60, 255);
+    border-left: 2px dotted rgb(0, 60, 255);
+   }
+
+
+   
+
+ 
